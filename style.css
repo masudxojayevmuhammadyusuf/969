@@ -1,0 +1,189 @@
+header {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+  }
+  .orta {
+    display: flex;
+    gap: 32px;
+  }
+  .orta a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    gap: 32px;
+  }
+  .orta a:hover {
+    color: #de2e54;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .qabul {
+    width: 170px;
+    height: 40px;
+    border-radius: 7px;
+    border-color: black;
+    color: black;
+    background-color: aliceblue;
+    font-size: 15px;
+  }
+  .qabul:hover {
+    width: 170px;
+    height: 40px;
+    border-radius: 7px;
+    border-color: #de2e54;
+    color: #de2e54;
+    background-color: aliceblue;
+    font-size: 15px;
+  }
+  /* /header tugadi/ */
+  main {
+    padding: 15px 30px;
+  }
+  .image {
+    width: 100%;
+    height: 100px;
+  }
+  .font {
+    display: flex;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 520px;
+    background-image: url(image\ 4\ \(2\).);
+    padding: 138px 90px;
+    color: aliceblue;
+    font-size: 20px;
+  }
+  .font .container {
+    display: flex;
+  }
+  .yozilish {
+    background-color: #de2e54;
+    color: aliceblue;
+    width: 170px;
+    height: 40px;
+    border-radius: 7px;
+    font-size: 15px;
+    border: none;
+    padding-left: 0px 50px;
+  }
+  .mainimg {
+    padding: 0px 85%;
+    margin-top: -87px;
+ 
+  }
+  /* section 1 tugadi */
+  .xizmat {
+    color: black;
+    font-size: 50px;
+    margin-top: -180px;
+    text-align: center;
+  }
+  .scrlimg {
+    display: flex;
+    padding: 15px 180px;
+  }
+  .psozi {
+    color: rgb(137, 137, 137);
+  }
+  .all2 {
+    padding: 20px 64px;
+  }
+  .scrlimg2 {
+    display: flex;
+    padding: 15px 130px;
+    
+  }
+  .allimg3 {
+    padding: 20px 55px;
+  }
+  /* section 2 tugadi */
+  .section3 {
+    background-color: #0eb4c1;
+  }
+  .allimg4 img {
+    width: 300px;
+    height: 300px;
+    /* display: flex;
+    gap: 50px; */
+    padding: 0px 86px;
+    margin-top: -130px;
+  }
+  .map{
+      width: 513px;
+      height: 331px;
+      padding: 54px 163px;
+  }
+   /* hduwhdu */
+   box1{
+      width: 550px;
+      height: 400px;
+     background-color: rgba(0, 0, 0, 0.677);
+  }
+  .alldiv{
+      width: 1200px;
+      height: 300px;
+      padding: 100px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  }
+  .input1{
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(129, 129, 129);
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  
+  }
+  .alldiv{
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+  }
+  .box1{
+      padding: 60px;
+      width: 413px;
+      height: 531px;
+      background-color: rgb(255, 255, 255);
+  }
+  .box1 input{
+  color: rgb(0, 0, 0);
+  
+  }
+  button{
+      width: 310px;
+      height: 40px;
+      background-color: #1AAB7B;
+      color: aliceblue;
+      border-radius: 3px;
+      
+  }
+  .botir{
+      display: flex;
+  }
+  footer{
+      display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+      background-color: rgb(54, 54, 54);
+  }
+  a{
+      color: aliceblue;
+      text-decoration: none;
+  }
+  
+  .obman{
+    background-image: url(./image\ 4\ \(1\).png);
+    background-size: cover;
+  }
